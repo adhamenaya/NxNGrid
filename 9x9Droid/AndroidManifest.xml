@@ -12,11 +12,11 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
-            android:name=".BoardActivity"
+            android:name="adhamenaya.BoardActivity"
             android:label="@string/app_name" >
         </activity>
         <activity
-            android:name=".PlayerActivity"
+            android:name="adhamenaya.PlayerActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

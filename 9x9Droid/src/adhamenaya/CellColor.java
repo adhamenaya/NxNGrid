@@ -1,4 +1,4 @@
-package adham.enaya;
+package adhamenaya;
 
 public enum CellColor {
 	BLACK, WHITE

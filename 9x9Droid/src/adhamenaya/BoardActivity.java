@@ -1,5 +1,6 @@
-package adham.enaya;
+package adhamenaya;
 
+import adham.enaya.R;
 import android.app.Activity;
 import android.graphics.Color;
 import android.os.Bundle;
